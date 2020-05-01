@@ -1,2 +1,2 @@
 # mail-quiz-app
-Simple quizz app for ABND.
+Simple quiz app for ABND.
